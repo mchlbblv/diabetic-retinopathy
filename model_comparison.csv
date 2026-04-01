@@ -1,0 +1,4 @@
+Model,Val Accuracy,Quadratic Kappa,Class 0 (No DR),Class 1 (Mild),Class 2 (Moderate),Class 3 (Severe),Class 4 (Prolif.)
+ResNet-50 Baseline,82.79%,0.8876,99.4%,72.5%,76.0%,40.9%,53.6%
+EfficientNet-B3,82.79%,0.8948,99.4%,70.0%,85.6%,9.1%,46.4%
+ResNet-50 Weighted,79.78%,0.8688,98.8%,77.5%,63.5%,40.9%,57.1%
